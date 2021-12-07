@@ -9,7 +9,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/OnGiuaKyKienTrucUserDepartment/git-config-server
-          default-label: master
+          uri: https://github.com/subprojectDHKTPM14Nhom10/config-cloud.git
+          default-label: main
           clone-on-start: true
         bootstrap: false
